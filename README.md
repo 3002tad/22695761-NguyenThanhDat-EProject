@@ -1,7 +1,6 @@
 1.	Github link: 3002tad/22695761-NguyenThanhDat-EProject
 2.	Setup all microservices
 -	Create .env file
- ![alt text](Result/env.png)
 -	hard code to config.URI
  ![alt text](Result/configURI.png)
 -	 Include username in the JWT payload so other services can read it from req.user
