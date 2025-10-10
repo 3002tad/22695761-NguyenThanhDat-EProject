@@ -22,6 +22,10 @@
  
 ![alt text](Result/login.png)
 
+- Dashborad
+
+![alt text](Result/dashboard.png)
+
 -	Create Product
  
 ![alt text](Result/create_product_1.png)
